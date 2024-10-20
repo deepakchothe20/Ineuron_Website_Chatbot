@@ -1,2 +1,5 @@
 ipykernel
 langchain
+langchain-community
+unstructured
+
